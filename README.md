@@ -1,8 +1,8 @@
-> $ ./configure
+> $ ./configure  
 > $ make
 
 
-○ Пётр I
+○ Пётр I  
 ● Python 1
 
 ![](https://raw.githubusercontent.com/Antoniii/python-1.0.1-whynot/main/p1.png)
